@@ -3,7 +3,7 @@ It automatically "clicks" answers on FreeRice while acting like a human. It has 
 
 # Setting it up
 
-First open the FreeRice [multiplication table page](https://freerice.com/categories/multiplication-table), copy the code in [auto.js](/blob/master/auto.js) and:
+First open the FreeRice [multiplication table page](https://freerice.com/categories/multiplication-table), copy the code in [auto.js](//auto.js) and:
 
 ## With the console
 
