@@ -1,9 +1,9 @@
 # AutoFreeRice: What does it do?
-It automatically "clicks" answers on FreeRice while acting like a human. It has a 1.5% chance of getting the answer wrong, in order to make it the most realisitc.
+It automatically "clicks" answers on [FreeRice](https://beta.freerice.com) while acting like a human. It has a 1.5% chance of getting the answer wrong, in order to make it the most realisitc.
 
 # Setting it up
 
-First open the FreeRice [multiplication table page](https://freerice.com/categories/multiplication-table), copy the code in [auto.js](/auto.js) and:
+First open the FreeRice [multiplication table page](https://freerice.com/categories/multiplication-table), copy the code in [auto.js](/auto.js) and then:
 
 ## With the console
 
