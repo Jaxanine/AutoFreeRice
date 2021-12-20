@@ -3,7 +3,7 @@ It automatically "clicks" answers on [FreeRice](https://beta.freerice.com) while
 
 # Setting it up
 
-First open the FreeRice [multiplication table page](https://freerice.com/categories/multiplication-table), copy the code in [auto.js](/auto.js) and then:
+First open the FreeRice [multiplication table page](https://freerice.com/categories/multiplication-table), copy the code in [auto.min.js](/auto.min.js) and then:
 
 ## With the console
 
